@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# 🎵 Pulse Drop - Modern Music Player
+
+# 🎵 Beat Drop - Modern Music Player
 
 A beautiful, feature-rich music player built with vanilla HTML, CSS, and JavaScript. Designed with a premium glassmorphism interface and packed with amazing features!
 
@@ -140,8 +140,7 @@ Pulse Drop works perfectly on all screen sizes:
 - [ ] Last.fm scrobbling
 - [ ] Custom theme builder
 
-## 🤝 Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests.
+
 
 ## 📄 License
 This project is licensed under the MIT License.
@@ -149,8 +148,7 @@ This project is licensed under the MIT License.
 ## 💝 Credits
 Developed with ❤️ by **Kattamanchi Gnanasudhama**
 
-## 📬 Contact
-For questions or suggestions, reach out or open an issue!
+
 
 Enjoy the music! 🎵✨
 =======
