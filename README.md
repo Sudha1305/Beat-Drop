@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎵 Pulse Drop - Modern Music Player
 
 A beautiful, feature-rich music player built with vanilla HTML, CSS, and JavaScript. Designed with a premium glassmorphism interface and packed with amazing features!
@@ -152,3 +153,6 @@ Developed with ❤️ by **Kattamanchi Gnanasudhama**
 For questions or suggestions, reach out or open an issue!
 
 Enjoy the music! 🎵✨
+=======
+# Beat-Drop
+>>>>>>> 8c2acd635a2036bf0558b31b44359b496954390a
