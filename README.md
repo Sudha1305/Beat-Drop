@@ -151,6 +151,3 @@ Developed with ❤️ by **Kattamanchi Gnanasudhama**
 
 
 Enjoy the music! 🎵✨
-=======
-# Beat-Drop
->>>>>>> 8c2acd635a2036bf0558b31b44359b496954390a
