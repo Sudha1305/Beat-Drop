@@ -2,6 +2,7 @@
 # 🎵 Beat Drop - Modern Music Player
 
 A beautiful, feature-rich music player built with vanilla HTML, CSS, and JavaScript. Designed with a premium glassmorphism interface and packed with amazing features!
+##Live: https://sudha1305.github.io/Beat-Drop/
 
 ## ✨ Features
 
